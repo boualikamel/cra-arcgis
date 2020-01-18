@@ -1,0 +1,10 @@
+@import './Map';
+
+main {
+    background-color: #a6bae2;
+    color: rgb(14, 14, 14);
+    height: calc(100% - 50px);
+    width: 100%;
+    position: absolute;
+    top: 50px;
+}
