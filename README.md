@@ -1,6 +1,6 @@
 # CRA-ARCGIS
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This repository is a samble demonstration of how we integrate [@arcgis/webpack-plugin](https://github.com/Esri/arcgis-webpack-plugin).
+This repository is a samble demonstration of how we integrate [@arcgis/webpack-plugin](https://github.com/Esri/arcgis-webpack-plugin) using [react-app-rewired](https://github.com/timarney/react-app-rewired) fot adding new [webpack](https://github.com/webpack/webpack) extensions without ejecting a react webpack config.
 
 ## Available Scripts
 In the project directory, you can run:
