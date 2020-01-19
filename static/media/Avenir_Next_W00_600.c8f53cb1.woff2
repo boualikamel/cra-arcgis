@@ -1,0 +1,1 @@
+module.exports = __webpack_public_path__ + "build/Avenir_Next_W00_600.woff2";

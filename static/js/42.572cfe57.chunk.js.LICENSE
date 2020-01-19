@@ -1,0 +1,19 @@
+/*!
+ * @esri/arcgis-html-sanitizer - v1.3.0 - Thu Sep 05 2019 13:28:05 GMT-0700 (Pacific Daylight Time)
+ * Copyright (c) 2019 - Environmental Systems Research Institute, Inc.
+ * Apache-2.0
+ * 
+ * js-xss
+ * Copyright (c) 2012-2017 Zongmin Lei(雷宗民) <leizongmin@gmail.com>
+ * http://ucdok.com
+ * MIT License, see https://github.com/leizongmin/js-xss/blob/master/LICENSE for details
+ * 
+ * Lodash/isPlainObject
+ * Copyright (c) JS Foundation and other contributors <https://js.foundation/>
+ * MIT License, see https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/LICENSE for details
+ */
+
+/*!
+ * PEP v0.4.4-pre | https://github.com/jquery/PEP
+ * Copyright jQuery Foundation and other contributors | http://jquery.org/license
+ */
